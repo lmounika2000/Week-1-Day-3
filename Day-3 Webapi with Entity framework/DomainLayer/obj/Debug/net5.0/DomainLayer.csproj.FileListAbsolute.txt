@@ -1,0 +1,12 @@
+C:\Users\lmoun\source\repos\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\lmoun\source\repos\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\lmoun\source\repos\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\refint\DomainLayer.dll
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
+C:\Users\lmoun\source\repos\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
